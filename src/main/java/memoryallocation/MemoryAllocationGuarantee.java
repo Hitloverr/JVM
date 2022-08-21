@@ -1,6 +1,6 @@
 package memoryallocation;
 
-import sun.awt.geom.AreaOp;
+
 
 /**
  * 内存分配担保案例

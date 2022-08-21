@@ -47,6 +47,7 @@ public class ConstantPoolTest {
 	// private static User u3 = new User();
 	// private static final User u4 = new User();
 
+	private final int iii = 11110;
 	private int int_num = 110;
 	private char char_num = 'a';
 	private short short_num = 120;
